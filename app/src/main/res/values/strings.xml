@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Gallery Doit</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_log_out">Log Out</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="go_to_sign_up_screen"><u>Sign Up</u></string>
+    <string name="go_to_sign_in_screen"><u>Sign In</u></string>
+    <string name="cancel">Cancel</string>
+    <string name="dialog_log_out_confirm">Are you sure that you want to log out?</string>
+    <string name="ok">OK</string>
+    <string name="action_add_image">Add image</string>
+    <string name="action_play_gif">Play GIF image</string>
+    <string name="action_add_image_done">Done</string>
+</resources>

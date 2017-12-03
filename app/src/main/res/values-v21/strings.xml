@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">Cancel</string>
+    <string name="dialog_log_out_confirm">Are you sure taht you want to log out?</string>
+    <string name="action_add_image">Add image</string>
+    <string name="action_add_image_done">Done</string>
+</resources>
